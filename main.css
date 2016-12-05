@@ -1,0 +1,13 @@
+.title {
+  border: 2px solid black;
+  background-color: black;
+
+}
+#title {
+  text-align: center;
+  color: white;
+}
+.navbar {
+ background-color: red;
+ border: 2px dashed black;
+}
