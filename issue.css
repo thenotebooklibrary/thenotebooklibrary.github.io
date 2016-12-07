@@ -1,0 +1,19 @@
+.title {
+  border: 2px solid black;
+  background-color: white;
+}
+#title {
+  color: black;
+  font-family: Arial;
+  text-align: center;
+}
+.main {
+ border: 4px solid black;
+}
+.headline {
+ color: black;
+ text-align: center;
+}
+.head_article {
+  text-align: right;
+}
