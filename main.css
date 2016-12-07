@@ -23,5 +23,9 @@ a {
  width: 20px;
   height: 20px;
   margin-left: -20px;
+}
+.profile_descrip {
+  font-size: 30px;
+  color:black;
   
 }
