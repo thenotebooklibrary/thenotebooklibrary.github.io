@@ -21,3 +21,11 @@
  color:black;
   font-size: 10px;
 }
+.article {
+ border: 2px dashed black;
+  
+}
+.article_head {
+ color:black;
+  text-align: center;
+}
