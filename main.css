@@ -26,6 +26,8 @@ a {
 }
 .profile_descrip {
   font-size: 30px;
-  color:black;
-  
+  color:black; 
+}
+.ad_pic {
+ margin:auto; 
 }
