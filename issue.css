@@ -29,3 +29,15 @@
  color:black;
   text-align: center;
 }
+.ad {
+  color:black;
+  font-size: 15px;
+}
+.ad_img {
+  margin: -10px;
+  width: 100px;
+  height: 100px;
+}
+.ad_div {
+  border: 2px solid black; 
+}
