@@ -43,5 +43,10 @@
 }
 #issue {
  background-color: white; 
-  
+}
+.head_pic {
+ border: 6px solid black;
+  margin: auto;
+  width: 200px;
+  height: 200px;
 }
